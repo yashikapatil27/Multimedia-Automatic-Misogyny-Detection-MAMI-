@@ -1,6 +1,6 @@
-# Task 5: MAMI - Multimedia Automatic Misogyny Identification 
+# Task 5: MAMI - Multimedia Automatic Misogyny Identification (SemEval 2022)
 
-This repository contains the implementation of a meme classification system using two different transformer-based models: BERT and ViT-BERT, aimed at categorizing memes as either misogynous or non-misogynous. This work was done as part of SemEval 2022: Task 5 - Sub-task A.
+This repository contains the implementation of a meme classification system using two different transformer-based models: BERT and ViT-BERT, aimed at categorizing memes as either misogynous or non-misogynous. This work was done as part of **SemEval 2022: Task 5 - Sub-task A**.
 
 ## Task Description
 
